@@ -1,0 +1,11 @@
+*.exe
+*.rc
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.o
+*.aps
+*.config
+Debug/
+x64/
+*.vscode
